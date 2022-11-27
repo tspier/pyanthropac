@@ -1,5 +1,7 @@
 **PyAnthropac, v0.1**
+
 Troy E. Spier, Ph.D.
+
 Released on 26 November 2022
 
 This program serves as a Python-based substitute for the 1990s-era program called Anthropac, which allows the results of freelisted ethnographic data to be analyzed by frequency of occurrence and the cognitive salience of each item individually, which is based also on its distribution within the lists themselves. The formula used to solve this is called Smith's S and is as follows:
